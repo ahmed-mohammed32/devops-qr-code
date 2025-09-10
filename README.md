@@ -18,7 +18,7 @@ It generates QR Codes for the provided URL, the front-end is in NextJS and the A
 
 ## Project Architecture
 
-- ![Project Architecture Diagram](devops-qr-code.drawio.png)
+![Project Architecture Diagram](devops-qr-code.drawio.png)
 
 ## Running locally
 
